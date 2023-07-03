@@ -1,0 +1,27 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Condensed:ital,wght@0,700;1,400&family=Roboto:wght@300&family=Sofia+Sans+Condensed:wght@200&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Playfair+Display&family=Roboto+Condensed:ital,wght@0,700;1,400&family=Roboto:wght@300&family=Sofia+Sans+Condensed:wght@200&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Playfair+Display:wght@400;600&family=Roboto+Condensed:ital,wght@0,700;1,400&family=Roboto:wght@300&family=Sofia+Sans+Condensed:wght@200&display=swap');
+
+
+
+:root {
+    --main-bg-color: brown;
+   
+  }
+
+
+.max-width1{
+ max-width: 74vw;
+}
+.max-width2{
+max-width: 60;
+}
+
+.m-auto{
+    margin: auto;
+}
+.my_2{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
